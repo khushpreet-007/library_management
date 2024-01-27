@@ -11,6 +11,7 @@ Admin App
 
 2. Authorize users
 
+Link for Admin App: https://github.com/khushpreet-007/library_management_admin_app/tree/master
 User App:
 1. LogIn to the system
 
